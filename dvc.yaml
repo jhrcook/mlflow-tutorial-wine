@@ -1,0 +1,6 @@
+stages:
+  download:
+    cmd: wget https://raw.githubusercontent.com/mlflow/mlflow/master/examples/sklearn_elasticnet_wine/wine-quality.csv
+      && mv wine-quality.csv data/
+    outs:
+    - data/wine-quality.csv

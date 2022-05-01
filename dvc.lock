@@ -1,0 +1,9 @@
+schema: '2.0'
+stages:
+  download:
+    cmd: wget https://raw.githubusercontent.com/mlflow/mlflow/master/examples/sklearn_elasticnet_wine/wine-quality.csv
+      && mv wine-quality.csv data/
+    outs:
+    - path: data/wine-quality.csv
+      md5: 5d6f24258e3c50bb01a61194b5401f5d
+      size: 264426
