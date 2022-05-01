@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/admin/Developer/Python/mlflow-tutorial-wine/mlruns/0/8048193983d54f229d32481c5d5e9dea/artifacts
+end_time: 1651414649306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8048193983d54f229d32481c5d5e9dea
+run_uuid: 8048193983d54f229d32481c5d5e9dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651414645113
+status: 3
+tags: []
+user_id: admin
